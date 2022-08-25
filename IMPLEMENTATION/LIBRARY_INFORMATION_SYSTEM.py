@@ -1,10 +1,6 @@
 
 """
     LIBRARY INFORMATION SYSTEM
-    Developed by CODING CONNOISSEURS
-        --  Ashwamegh Rathore
-        --  Nakul Aggarwal
-        --  Rupinder Goyal
 """ 
 
 from tkinter import *
